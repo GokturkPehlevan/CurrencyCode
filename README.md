@@ -1,22 +1,5 @@
 # CurrencyCode
 Obtain data from XML, process data with MS Access, calculate whole amount.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
